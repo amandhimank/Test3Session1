@@ -1,1 +1,7 @@
-
+./a.out
+Enter the numerator and denominator :
+1
+2
+1
+4
+1/4 + 1/4 = 3/4
